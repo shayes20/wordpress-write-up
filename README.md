@@ -36,7 +36,7 @@ The next step was to go through the bash_history file. A quick such using the ke
 The user was the one the problem was looking for and the password found here in the bash_history was the correct password for the flag. The flag is 
 
 ```
-ctf{2WKav3jDs$B7F}
+byuctf{2WKav3jDs$B7F}
 ```
 
 Looking back at this challenge and learning more about bash_history files whenever there is a problem that is looking for a username and password, it is more than likely that we can find the username and password in the bash_history file. However, it is not always as easy as just searching for the keyword 'user' another option could be to search '-u', or in more complex situations a regex expression can be used to find the user.
