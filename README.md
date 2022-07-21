@@ -4,14 +4,14 @@
 
 I was also able to recover the /home directory from epik.com's server! They're using WordPress! I know there is a user whose username is 3 characters long, what is the password for this user?
 
-Example flag - ctf{password}
+Example flag - byuctf{password}
 
 Disclaimer - this is the actual /home directory from the breach, so please be careful and do not interact with any IP addresses or domains found here. Please let us know if any inappropriate content is found.
 
 ## Source Files
 
 
-[Zip File Download](https://drive.google.com/file/d/17KZnp951LE94zdqqDxW8wlP9Bcmia48g/view?usp=sharing)
+[Zip File Download](https://drive.google.com/file/d/1L-XALUe9TlLyZGyybq2_a7pakQb0bpGy/view)
 
 
 ## The Solution 
